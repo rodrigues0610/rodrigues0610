@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil 💙💙
 
-Meu nome é Leonardo Rodrigues Barral
+Meu nome é ***Leonardo Rodrigues Barral***
 
     Estou estudando na Alura
     Estou me desenvolvendo na linguagem JavaScript
